@@ -1,15 +1,15 @@
 <p id="readme-top"></p>
 <div align="center">
-  <h3 align="center">Results Summary</h3>
+  <h3 align="center">Product Preview</h3>
 
   <p align="center">
-     Results Summary based on frontend mentor design..
+     Product Preview based on frontend mentor design..
     <br />
     <br />
-    <a href="https://results-summary-kwdw.vercel.app/">View a project demo</a>
+    <a href="https://product-preview-tobr.vercel.app/">View a project demo</a>
   </p>
 
-![My Image](assets/images/desktop-preview.jpg)
+![My Image](assets/images/preview.png)
 
 </div>
 
@@ -40,7 +40,7 @@
 
 ## About The Project
 
-See your test summary, individual stats are described.
+Product from a store.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
