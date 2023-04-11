@@ -13,10 +13,6 @@
 
 </div>
 
-## Lighthouse Statistics
-
-![My Image](assets/images/lighthouse.png)
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
