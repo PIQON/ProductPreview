@@ -1,0 +1,24 @@
+:root {
+  --ff-primary: "Montserrat", sans-serif;
+  --ff-secondary: "Fraunces", serif;
+
+  --color-primary-400: hsl(158, 36%, 37%);
+  --color-primary-300: hsl(30, 38%, 92%);
+  --color-neutral-400: hsl(0, 0%, 100%);
+  --color-neutral-300: hsl(228, 12%, 48%);
+  --color-neutral-200: hsl(212, 21%, 14%);
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--ff-primary);
+  font-weight: 400;
+  line-height: 1;
+}
